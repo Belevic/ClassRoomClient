@@ -1,5 +1,5 @@
 # ClassRoomClient
-Client side of class room pplication developed with React JS.
+Client side of class room application developed with React JS.
 
 Steps for setup client project:
 1) Download source code from github.
