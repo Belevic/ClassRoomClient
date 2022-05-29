@@ -6,7 +6,7 @@ Steps for setup client project:
 2) You need to setup Node Js for starting app.
 4) Open IDE with terminal or start in cmd locating in project folder by calling npm install for downloading all dependencies.
 5) Run npm start for starting app.
-6) Open two browsers (there are some issues on client side with local storge when woeking in one browser) for testing (project runs on port 3000).
+6) Open two browsers (there are some issues on client side with local storge when working in one browser) for testing (project runs on port 3000).
 
 This are screenshots of application lifecycle.
 
